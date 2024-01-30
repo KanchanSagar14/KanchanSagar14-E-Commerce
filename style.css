@@ -12,7 +12,7 @@
        /* justify-content: center; */
        align-items: center;
        flex-direction: column;
-       background: url("images/contactbg.jpg");
+       background: url("contactbg.jpg");
        background-size: cover;
       
    }
